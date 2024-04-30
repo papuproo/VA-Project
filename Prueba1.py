@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1YOwrwZppgQC1YjudW_buzGEjw9JtUmNj
 """
 
+#Este codigo solamente funciona en Colab de Google, copiar y pegar ahi ya que probablemente no tengas la libreria importada de TensorFlow jaja ni la base de datos de imagenes
+
 import tensorflow as tf
 import tensorflow_datasets as tfds
 
